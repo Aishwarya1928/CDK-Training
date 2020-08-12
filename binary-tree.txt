@@ -1,0 +1,5 @@
+Binary Tree
+	1. Random Access
+	2. Dynamic Allocation
+	3. Policy for getting/putting numbers : Random
+	4. uses -to store the information in hierarchical format e.g.File System on computer
