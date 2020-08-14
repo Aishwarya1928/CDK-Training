@@ -1,0 +1,5 @@
+ueBinary Tree
+	1. Sequential Access
+	2. Dynamic Allocation
+	3. Policy for getting/putting numbers : Traversing from root node
+	4. uses -To store the information in hierarchical format e.g.File System on computer

@@ -1,0 +1,5 @@
+Function	                          Array 	                  Linked List	             Stack	               Queue
+Sequential Access / Random Access	  Random access	            Sequentail	             Sequential access	     Sequential access
+Static/Dynamic Allocation	          Static Allocation	        dynamic allocation	     dynamic allocation	   dynamic allocation
+Policy for getting/putting numbers	Random			              Linear Traversing        at the top            Front and Rear
+use of 				                      matrix creation           to implement queue       recursion             job scheduling
