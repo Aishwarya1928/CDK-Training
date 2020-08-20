@@ -1,0 +1,23 @@
+create table person(name varchar(20) , City  varchar(20) , State varchar(30) , Date of Birth , Aadhar number(12) , pan varchar(10) );
+ 
+ insert into person values('Aishwarya'  , 'Pune' , 'Maharashtra' , TO_DATE('1997-08-01' , 'YYYY/MM/DD') , 5894620538942 , 'AXUNP5421E' );
+ 
+ 
+ insert into person values('Pooja'  , 'Hydeadrab'      , 'Telangana' , TO_DATE('1996-10-10' , 'YYYY/MM/DD') , 338658905322 , 'PDSZ422S' );
+ 
+ insert into person values('Shivani'  , 'Pune' , 'Maharashtra' , TO_DATE('1997-01-08' , 'YYYY/MM/DD') , 8492438405213 , 'SVCW1954V' );
+ 
+ insert into person values('Akash'   , 'Hyderabad' , 'Telangana' , TO_DATE('1997-12-3' , 'YYYY/MM/DD') , 328594809243 , 'AHSW13923E' );
+ 
+ insert into person values('Sayali' , 'Pune'      , 'Maharashtra' , TO_DATE('1996-11-14' , 'YYYY/MM/DD') , 576896598245 , 'SPEV5353G' );
+ 
+ insert into person values('Prajakta'  , 'Mumbai'    , 'Maharashtra' , TO_DATE('1996-05-13' , 'YYYY/MM/DD') , 85946489422 , 'PSAN5645F' );
+ 
+ insert into person values('Mehul' , 'Pune'      , 'Maharashtra' , TO_DATE('1995-03-15' , 'YYYY/MM/DD') , 9460649824723, 'MTHA4646Q' );
+ 
+ insert into person values('Abhishek'  , 'Mumbai' , 'Maharashtra' , TO_DATE('1997-03-19' , 'YYYY/MM/DD') , 9045857423132 , 'APEN4312B' );
+ 
+ insert into person values('Sushant'  , 'Pune'      , 'Maharashtra' , TO_DATE('1996-01-27' , 'YYYY'/MM/DD) , 4587372461278 , 'SPWV3276E' );
+ 
+ insert into person values('Vrushabh'   , 'Hyderabad'    , 'Telangana' , TO_DATE('1997-08-14' , 'YYYY/MM/DD') , 54857434324 , 'VGRQ6721H' );
+ 
